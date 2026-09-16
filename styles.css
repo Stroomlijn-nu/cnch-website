@@ -31,7 +31,7 @@ img{max-width:100%;display:block;}
 .btn-cta:hover{background:var(--cnch-red-dark);}
 
 /* Hero with background photo */
-.hero{position:relative;overflow:hidden;background-image:url('https://app.stroomlijn.nu/objects/quick-uploads/82/45278efd180dac85.jpg');background-size:cover;background-position:center 35%;color:#fff;}
+.hero{position:relative;overflow:hidden;background-image:url('https://app.stroomlijn.nu/objects/quick-uploads/82/e8e722c9326926d0.jpg');background-size:cover;background-position:center 35%;color:#fff;}
 .hero::before{content:"";position:absolute;inset:0;background:linear-gradient(135deg, rgba(46,92,153,0.72) 0%, rgba(63,111,174,0.6) 60%, rgba(46,92,153,0.72) 100%);}
 .hero-inner{position:relative;z-index:2;max-width:1180px;margin:0 auto;padding:110px 20px;display:grid;grid-template-columns:1.1fr 0.9fr;gap:40px;align-items:center;}
 .hero h1{font-size:40px;font-weight:800;line-height:1.15;margin-bottom:18px;letter-spacing:-0.01em;text-shadow:0 2px 12px rgba(0,0,0,0.25);}
