@@ -27,7 +27,7 @@ img{max-width:100%;display:block;}
 .btn-cta{flex-shrink:0;background:var(--cnch-red);color:#fff;padding:10px 14px;border-radius:10px;font-size:14px;font-weight:700;text-decoration:none;white-space:nowrap;transition:background .15s;}
 .btn-cta:hover{background:var(--cnch-red-dark);}
 
-.page-hero{position:relative;overflow:hidden;background-image:url('https://app.stroomlijn.nu/objects/quick-uploads/82/e037a90bce589ccb.png');background-size:cover;background-position:center top;color:#fff;padding:150px 20px;text-align:center;display:flex;align-items:center;justify-content:center;}
+.page-hero{position:relative;overflow:hidden;background-image:url('https://app.stroomlijn.nu/objects/quick-uploads/82/a528b5eb69c5f643.jpg');background-size:cover;background-position:center top;color:#fff;padding:150px 20px;text-align:center;display:flex;align-items:center;justify-content:center;}
 .page-hero::before{content:"";position:absolute;inset:0;background:linear-gradient(135deg, rgba(46,92,153,0.72) 0%, rgba(63,111,174,0.6) 100%);}
 .page-hero-inner{position:relative;z-index:2;}
 .page-hero h1{font-size:34px;font-weight:800;margin-bottom:10px;letter-spacing:-0.01em;text-shadow:0 2px 12px rgba(0,0,0,0.25);}
