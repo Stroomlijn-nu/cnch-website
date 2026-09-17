@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://cnch.nl/bestuur/</loc>
-    <lastmod>2026-09-17T06:07:42.401Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://cnch.nl/over-ons/</loc>
-    <lastmod>2026-09-16T21:57:40.784Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://cnch.nl/gasten/</loc>
-    <lastmod>2026-09-16T18:07:05.965Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
     <loc>https://cnch.nl/</loc>
-    <lastmod>2026-09-16T17:15:49.903Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://cnch.nl/privacy/</loc>
-    <lastmod>2026-09-16T15:02:49.553Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://cnch.nl/leden/</loc>
-    <lastmod>2026-09-16T15:02:31.398Z</lastmod>
+    <lastmod>2026-09-17T15:39:19.987Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://cnch.nl/cookies/</loc>
-    <lastmod>2026-09-16T15:02:12.019Z</lastmod>
+    <lastmod>2026-09-17T15:39:06.346Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://cnch.nl/privacy/</loc>
+    <lastmod>2026-09-17T15:38:59.904Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://cnch.nl/contact/</loc>
-    <lastmod>2026-09-16T15:02:03.506Z</lastmod>
+    <lastmod>2026-09-17T15:38:54.781Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://cnch.nl/gasten/</loc>
+    <lastmod>2026-09-17T15:38:49.750Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://cnch.nl/bestuur/</loc>
+    <lastmod>2026-09-17T15:38:43.919Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://cnch.nl/over-ons/</loc>
+    <lastmod>2026-09-17T15:38:37.342Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://cnch.nl/leden/</loc>
+    <lastmod>2026-09-17T15:38:30.609Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
