@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://cnch.nl/bestuur/</loc>
+    <lastmod>2026-09-19T15:22:15.276Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://cnch.nl/over-ons/</loc>
     <lastmod>2026-09-18T09:20:01.899Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -28,11 +33,6 @@
   <url>
     <loc>https://cnch.nl/contact/</loc>
     <lastmod>2026-09-17T15:39:36.521Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://cnch.nl/bestuur/</loc>
-    <lastmod>2026-09-17T15:39:28.376Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
